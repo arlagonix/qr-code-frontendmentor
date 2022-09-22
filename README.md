@@ -1,4 +1,4 @@
-# QR Code Component Solution 
+# QR Code Component 
 
 <p align="center">
   <img src="./images/solution/solution.jpg" width="100%">
