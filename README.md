@@ -1,4 +1,7 @@
-# QR Code Component 
+<h1 align="center">QR Code Component </h1>
+<p align="center">
+  Coded with <code>HTML</code>, <code>CSS</code>
+</p>
 
 <p align="center">
   <img src="./images/solution/solution.jpg" width="100%">
