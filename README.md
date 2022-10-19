@@ -1,4 +1,4 @@
-<h1 align="center">QR Code Component </h1>
+<h1 align="center">QR Code</h1>
 <p align="center">
   Coded with <code>HTML</code>, <code>CSS</code>
 </p>
